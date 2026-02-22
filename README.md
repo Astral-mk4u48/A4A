@@ -5,6 +5,7 @@ This project is NOT open-source.
 All rights reserved. This repository and its contents are provided for demonstration and portfolio purposes only.
 
 🚫 Prohibited Actions
+
 No Redistribution: You may not host, mirror, or redistribute this code in any form.
 
 No Commercial Use: You may not use this code or any derivative works for commercial purposes.
